@@ -1,0 +1,8 @@
+{
+  "id": "cloud",
+  "lbaas_id": "<load balancer id for web>",
+  "dblbaas_id": "<load balancer id for databses>",
+  "rackspace_username": "<rackspace username>",
+  "rackspace_api_key": "<rackspace api key>",
+  "rackspace_region": "<region>"
+}
