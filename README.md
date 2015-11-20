@@ -1,7 +1,7 @@
 Overview
 ========
 
-This chef repo contains all you need to create a mysql master/slave replication setup and at it to a pre-configured Rackspace loadbalancer. It will also create 2 nodes running apache with Wordpress which will be added and enabled into a pre-configured lbaas instance.
+This chef repo contains all you need to create a mysql master/slave replication setup and add it to a pre-configured Rackspace loadbalancer. It will also create 2 nodes running apache with Wordpress which will be added and enabled into a pre-configured lbaas instance.
 
 Given more time, data bags should be encrypted but due to limited time for development and QE it is not addressed in this cookbook nor is configuring firewalls.
 
